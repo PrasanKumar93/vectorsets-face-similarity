@@ -1,3 +1,5 @@
+Repo moved to https://github.com/PrasanKumar93/vectorsets-face-similarity-demo
+
 # VectorSets Face Similarity Demo
 
 This project demonstrates face similarity search using **Redis VectorSets**. It features a **Next.js frontend**, a **Node.js backend**, and **AI-powered face embedding** capabilities.
